@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
-
+.idea
+build
+*.DS_Store
 target
 out
 target/**
@@ -11,7 +13,7 @@ out/**
 
 # BlueJ files
 *.ctxt
-
+.gradle
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
